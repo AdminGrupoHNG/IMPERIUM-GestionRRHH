@@ -1,0 +1,86 @@
+C:\Users\MIRIAM MEJIA\source\2020\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.dll
+C:\Users\MIRIAM MEJIA\source\2020\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.pdb
+C:\Users\MIRIAM MEJIA\source\2020\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\source\2020\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.dll
+C:\Users\MIRIAM MEJIA\source\2020\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.pdb
+C:\Users\HP\Downloads\2020\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.dll
+C:\Users\HP\Downloads\2020\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.pdb
+C:\Users\HP\Downloads\2020\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\2020\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.dll
+C:\Users\HP\Downloads\2020\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.pdb
+C:\Users\HP\Downloads\2020\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.AssemblyReference.cache
+C:\Users\MIRIAM MEJIA\Downloads\RRRHH-24\RRRHH-24\2020\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.dll
+C:\Users\MIRIAM MEJIA\Downloads\RRRHH-24\RRRHH-24\2020\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.pdb
+C:\Users\MIRIAM MEJIA\Downloads\RRRHH-24\RRRHH-24\2020\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\Downloads\RRRHH-24\RRRHH-24\2020\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.dll
+C:\Users\MIRIAM MEJIA\Downloads\RRRHH-24\RRRHH-24\2020\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.pdb
+C:\Users\HP\Desktop\2020\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.dll
+C:\Users\HP\Desktop\2020\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.pdb
+C:\Users\HP\Desktop\2020\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\2020\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\2020\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.dll
+C:\Users\HP\Desktop\2020\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.pdb
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.dll
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.pdb
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.dll
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.pdb
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.AssemblyReference.cache
+C:\Users\HP\source\RRHHPRODUCCION2510 (1)\RRHHPRODUCCION2510\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.dll
+C:\Users\HP\source\RRHHPRODUCCION2510 (1)\RRHHPRODUCCION2510\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.pdb
+C:\Users\HP\source\RRHHPRODUCCION2510 (1)\RRHHPRODUCCION2510\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\RRHHPRODUCCION2510 (1)\RRHHPRODUCCION2510\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.dll
+C:\Users\HP\source\RRHHPRODUCCION2510 (1)\RRHHPRODUCCION2510\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.pdb
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\RRHHPRODUCCION2510\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.dll
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\RRHHPRODUCCION2510\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.pdb
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\RRHHPRODUCCION2510\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\RRHHPRODUCCION2510\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.dll
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\RRHHPRODUCCION2510\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.pdb
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\Copi\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.dll
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\Copi\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.pdb
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\Copi\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\Copi\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.dll
+C:\Users\MIRIAM MEJIA\source\RRHHPRODUCCION2510\Copi\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.AssemblyReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.pdb
+C:\FUENTES\Projects\GestionRRHH\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.dll
+C:\FUENTES\Projects\GestionRRHH\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.pdb
+C:\FUENTES\Projects\GestionRRHH\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.AssemblyReference.cache
+C:\FUENTES\Projects\GestionRRHH\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.CoreCompileInputs.cache
+C:\FUENTES\Projects\GestionRRHH\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.dll
+C:\FUENTES\Projects\GestionRRHH\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.pdb
+C:\Users\MIRIAM MEJIA\source\RRHH-ALCIDES\IMPERIUM-GestionRRHH\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.dll
+C:\Users\MIRIAM MEJIA\source\RRHH-ALCIDES\IMPERIUM-GestionRRHH\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.pdb
+C:\Users\MIRIAM MEJIA\source\RRHH-ALCIDES\IMPERIUM-GestionRRHH\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\source\RRHH-ALCIDES\IMPERIUM-GestionRRHH\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.dll
+C:\Users\MIRIAM MEJIA\source\RRHH-ALCIDES\IMPERIUM-GestionRRHH\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.pdb
+C:\Users\MIRIAM MEJIA\source\RRHH-ALCIDES\IMPERIUM-GestionRRHH\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.AssemblyReference.cache
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\BE_GestionRRHH.pdb
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.AssemblyReference.cache
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.csproj.CopyComplete
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-GestionRRHH\BE_GestionRRHH\obj\Debug\BE_GestionRRHH.pdb
